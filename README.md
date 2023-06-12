@@ -1,5 +1,6 @@
 # Nicole_Portfolio
 Portfolio Project for Junior Data Analyst
+![Preview in PDF](https://github.com/sakiileung/Nicole_Portfolio/blob/main/proj%20preview.pdf)
 
 **[Project 1: Churned Customer Estimator: Project Overview](https://app.powerbi.com/groups/280e3b60-7f1d-4aa7-aeb8-afcd59dd51ed/reports/d62b5161-aabb-44a7-a1b2-ad29eb586e62?ctid=0f2cb4ab-c953-45af-a925-c8886dd3fc0f&pbi_source=linkShare)**
 - Explore the data in excel and perform a datacheck, import to Power BI.
