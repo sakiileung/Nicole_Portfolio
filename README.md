@@ -10,7 +10,7 @@ Portfolio Project for Junior Data Analyst
 
 **Highlight**
 
-![image](https://github.com/sakiileung/Nicole_Portfolio/assets/65174044/00e64e66-c376-4c82-b52e-1a7f50532b43)
+![image](Images/Picture2.jpg)
 
 - In contract type, the month-to-month contract has a higher churn rate than others. 
 - But it also has a negative correlation with the account length. 
