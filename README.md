@@ -10,7 +10,7 @@ Portfolio Project for Junior Data Analyst
 
 **Highlight**
 
-<img src="./Images/Picture2.jpg" alt="Picture2">
+![](Nicole_Portfolio/Images/Picture2.jpg)
 
 - In contract type, the month-to-month contract has a higher churn rate than others. 
 - But it also has a negative correlation with the account length. 
@@ -19,7 +19,7 @@ Portfolio Project for Junior Data Analyst
 
 
 
-<img src="./Images/Picture1.jpg" alt="Picture1">
+![](Nicole_Portfolio/Images/Picture1.jpg)
 
 
 - The main reason for churned customers is competitor issue. Services attitude and customer dissatisfaction also need to focus on.
