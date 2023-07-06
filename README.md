@@ -34,6 +34,6 @@ Portfolio Project for Junior Business Analyst
 
 **Highlight**
 
-![image](Images/Picture2.jpg)
+![image](Images/Dashboard%202.png)
 
 
