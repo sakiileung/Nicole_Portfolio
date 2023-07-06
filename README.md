@@ -31,7 +31,7 @@ Portfolio Project for Junior Business Analyst
 
 # [Project 2: Sales Insight: Project Overview](https://public.tableau.com/app/profile/nicole.leung/viz/SalesInsights_16886344911350/Dashboard2)
 - This project aimed to unlock sales insights for the sales team, leading to a 10% reduction in cost and a 20% decrease in business time. 
-- Deployed a star schema data model and ETL on data cleaning in Tableau, and also used mySQL for simple data analysis. 
+- Deployed a star schema data model and ETL on data cleaning in Tableau, and also used [mySQL](https://github.com/sakiileung/Nicole_Portfolio/blob/main/sales%20data%20insight%20-%20Indian%20Manufacturing%20Company.sql) for simple data analysis. 
 
 
 
